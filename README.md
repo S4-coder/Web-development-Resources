@@ -406,7 +406,7 @@ Read our [Contributing Guide](CONTRIBUTING.md) to learn about our development pr
 
 <div align="center">
   <h3>🌟 Star this repository if you find it helpful! 🌟</h3>
-  <p>Made with ❤️ by the Web Development Community</p>
+  <p>Made with ❤️ by Sabeel Ahmed</p>
   
   <a href="https://github.com/yourusername/web-dev-course/stargazers">
     <img src="https://img.shields.io/github/stars/yourusername/web-dev-course?style=social"/>
